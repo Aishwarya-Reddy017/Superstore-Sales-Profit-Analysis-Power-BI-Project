@@ -92,7 +92,7 @@ Dataset:
 
 ## Project Link
 
-[PASTE GITHUB LINK HERE]
+[[PASTE GITHUB LINK HERE](https://github.com/Aishwarya-Reddy017/Superstore-Sales-Profit-Analysis-Power-BI-Project.git)]
 
 
 
